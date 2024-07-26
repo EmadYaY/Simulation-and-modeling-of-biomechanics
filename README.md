@@ -8,5 +8,5 @@ Mask-Face Detection Project
 -
 
 This project was created to provide simulation and modeling lessons.
-Fazel Mohammad Alipour - July 1403
+Fazel Mohammad Alipour - July 2024
 -
